@@ -14,3 +14,4 @@ This is the project where i am making a custom housing for my ESP32 running WLED
 
 
 
+schematic link: https://docs.google.com/drawings/d/1TjUwS5jTOqqM_nidiDUK_ERnL868CmK8H96_pQC8ZTM/edit?usp=sharing
