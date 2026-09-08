@@ -14,9 +14,10 @@ This is the project where i am making a custom housing for my ESP32 running WLED
 
 
 <img width="2268" height="4032" alt="IMG_1321" src="https://github.com/user-attachments/assets/2a79134e-f565-4177-a59b-27a9f4fb3148" />
+<img width="3670" height="6525" alt="IMG_1323" src="https://github.com/user-attachments/assets/9808caaa-7bf1-4131-8673-761b8609c046" />
+<img width="8064" height="4536" alt="IMG_1324" src="https://github.com/user-attachments/assets/6b2a4e1d-d634-4d81-acf4-7adddf8f9b1e" />
 
-
-I cant assemble everything right now but here is what I have so far and I need the convertor to make sure the WLED gets the power it needs. As well as solder the parts together. 
+I cant assemble everything right now but here is what I have so far and I need the convertor to make sure the WLED gets the power it needs. As well as solder the parts together. Other than that the esp32 is put into its part and I just need to solder everything together and power it up. 
 
 
 schematic link: https://docs.google.com/drawings/d/1TjUwS5jTOqqM_nidiDUK_ERnL868CmK8H96_pQC8ZTM/edit?usp=sharing
